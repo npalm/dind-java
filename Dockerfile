@@ -1,5 +1,4 @@
-FROM jpetazzo/dind:latest
-#FROM gitlab/dind:latest
+FROM gitlab/dind:latest
 MAINTAINER Niek Palm <dev.npalm@gmail.com>
 
 # Install Java.
